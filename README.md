@@ -14,6 +14,7 @@ Intro
 * [Android](#android)
 * [电子书籍](#assets)
 * [Ruby](#ruby)
+* [Python](#python)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [LISP](#lisp)
@@ -74,6 +75,14 @@ Assets文件夹内收集了几本经典pdf电子书，适合放在手机里反�
 * [Rails 风格指南](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
 * [笨方法学 Ruby](http://lrthw.github.io/)
 * [Ruby on Rails Tutorial 原书第 2 版](http://railstutorial-china.org/)
+
+### Python
+Assets/python 文件夹内收集了几本经典pdf电子书，适合放在手机里反复阅读
+* [LearningPython(5Edition)(2.7-3.3)]() Python 基础学习经典中的经典
+* [Python 学习笔记 第二版]() 国内 Python 前辈的经验积累
+* [Python源码剖析]() 剖析 Python 内部实现机制
+* [Python核心编程（中文第二版）带目录]() Python 核心功能特性编程
+* [The Django Book 2.0中文译本]() Django 框架入门教程
 
 ###Javascript
 * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
