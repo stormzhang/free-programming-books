@@ -98,4 +98,4 @@ Assets文件夹内收集了几本经典pdf电子书，适合放在手机里反�
 * [The Little MongoDB Book 中文版](https://github.com/justinyhuang/the-little-mongodb-book-cn)
 
 ### 前端技能汇总
-* [前端技能汇总)](https://github.com/JacksonTian/fks) 还有比这更碉堡的前端技能大汇总么
+* [前端技能汇总](https://github.com/JacksonTian/fks) 还有比这更碉堡的前端技能大汇总么
