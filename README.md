@@ -4,7 +4,7 @@ Free Learning Resources In Chinese
 Intro
 ---
 
-整理一些免费的中文编程学习资源，此项目基于[free-programming-books](https://github.com/vhf/free-programming-books)，但增加了Android和Java的学习资源。
+此项目基于[free-programming-books](https://github.com/vhf/free-programming-books)，但原项目中的中文学习资源比较少，遂诞生了此项目，旨在完善更多的中文编程学习资源，欢迎star或fork。
 
 ###目录
 * [在线教育](#在线教育)
@@ -20,7 +20,8 @@ Intro
 * [Haskell](#haskell)
 * [Scala](#scala)
 * [Shell](#shell)
-* [Database](#database)   
+* [Database](#database)
+* [前端技能汇总](#前端技能汇总)
 
 ###在线教育
 * [MIT OCW -- 麻省理工学院“开放式课程网页”](http://ocw.mit.edu/courses/translated-courses/simplified-chinese/)
@@ -95,3 +96,6 @@ Assets文件夹内收集了几本经典pdf电子书，适合放在手机里反�
 
 ### Database
 * [The Little MongoDB Book 中文版](https://github.com/justinyhuang/the-little-mongodb-book-cn)
+
+### 前端技能汇总
+* [前端技能汇总)](https://github.com/JacksonTian/fks) 还有比这更碉堡的前端技能大汇总么
