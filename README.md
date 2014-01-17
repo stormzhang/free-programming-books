@@ -4,13 +4,15 @@ Free Learning Resources In Chinese
 Intro
 ---
 
-整理一些免费的中文编程学习资源，后续会陆续增加一些关于Android的。此项目基于[free-programming-books](https://github.com/vhf/free-programming-books)。
+整理一些免费的中文编程学习资源，此项目基于[free-programming-books](https://github.com/vhf/free-programming-books)，但增加了Android和Java的学习资源。
 
 ###目录
 * [在线教育](#在线教育)
 * [软件开发方法](#软件开发方法)
 * [HTML / CSS](#html--css)
 * [版本控制](#版本控制)
+* [Android](#Android)
+* [电子书籍](#Assets)
 * [Ruby](#ruby)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
@@ -39,6 +41,32 @@ Intro
 * [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 * [Git 参考手册](http://gitref.justjavac.com/)
+
+### Android
+##### 英文
+* [Google Android Developer Training](http://developer.android.com/training/index.html)Google Android开发实践
+* [Android Development Starter Tutorials](http://www.vogella.com/tutorials/android.html)比较不错的Android开发新手教程
+* [Android Developers Blog](http://android-developers.blogspot.jp/)Android官网博客，须翻墙
+* [Android Design Principles](http://developer.android.com/design/get-started/principles.html)官网Android设计原则
+
+##### 中文(适合新手，涵盖Android基础和Java基础知识)
+* [Android学习指南](http://android.yaohuiji.com/about)
+* [老罗Android开发 视频教程](http://luo.apkbus.com/)
+* [Mars Android开发 视频教程](http://mars.apkbus.com/)
+
+##### 网站及开源
+* [Android Views](http://www.androidviews.net/)专注Android UI
+* [23code](http://www.23code.com/)国内的一家专注Android开源代码分享的网站，同时有相应的App
+* [android-open-project](https://github.com/Trinea/android-open-project)汇集了多达150个最火的Android开源项目，尽情的享受开源带来的乐趣吧!
+
+### Assets
+Assets文件夹内收集了几本经典pdf电子书，适合放在手机里反复阅读, 均为中文版
+
+* [Thinking In Java]()不必多说，Java经典中的经典
+* [Effective Java]()java进阶必读书籍，读过之后绝对会上升一个层次
+* [Android Design-4.0]()作为一名Android开发者必须了解Android的设计原则
+* [Original_Git_Community_Book]()学习Git的经典之作
+* [Getting Real]()37Singnals推出的敏捷开发书籍
 
 ### Ruby
 * [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
