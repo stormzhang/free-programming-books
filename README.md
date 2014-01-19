@@ -13,6 +13,7 @@ Intro
 * [版本控制](#版本控制)
 * [Android](#android)
 * [电子书籍](#assets)
+* [iOS](#iOS)
 * [Ruby](#ruby)
 * [Python](#python)
 * [JavaScript](#javascript)
@@ -69,6 +70,9 @@ Assets文件夹内收集了几本经典pdf电子书，适合放在手机里反�
 * [Android Design-4.0]() 作为一名Android开发者必须了解Android的设计原则
 * [Original_Git_Community_Book]() 学习Git的经典之作
 * [Getting Real]() 37Singnals推出的敏捷开发书籍
+
+### iOS
+* [iOS7-day-by-day](https://github.com/ShinobiControls/iOS7-day-by-day)
 
 ### Ruby
 * [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
