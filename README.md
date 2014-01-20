@@ -6,6 +6,8 @@ Intro
 
 此项目基于[free-programming-books](https://github.com/vhf/free-programming-books)，但原项目中的中文学习资源比较少，遂诞生了此项目，旨在完善更多的中文编程学习资源，欢迎star或fork。
 
+Thanks to [manageyp](https://github.com/manageyp)
+
 ###目录
 * [在线教育](#在线教育)
 * [软件开发方法](#软件开发方法)
