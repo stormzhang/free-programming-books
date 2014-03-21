@@ -26,6 +26,7 @@ Thanks to [manageyp](https://github.com/manageyp)
 * [Shell](#shell)
 * [Database](#database)
 * [前端技能汇总](#前端技能汇总)
+* [Git](#git)
 
 ###在线教育
 * [MIT OCW -- 麻省理工学院“开放式课程网页”](http://ocw.mit.edu/courses/translated-courses/simplified-chinese/)
@@ -114,3 +115,7 @@ Assets/python 文件夹内收集了几本经典pdf电子书，适合放在手机
 
 ### 前端技能汇总
 * [前端技能汇总](https://github.com/JacksonTian/fks) 还有比这更碉堡的前端技能大汇总么
+
+### Git
+* [Pro Git](http://git-scm.com/book) 非常专业的Git教程
+* [Pro Git中文版](http://iissnan.com/progit/)
